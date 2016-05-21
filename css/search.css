@@ -37,7 +37,7 @@
   border-radius: 0;
   vertical-align: baseline;
   box-shadow: none;
-  color: #e63f17;
+  color: #b83141;
   display: block;
   width: 100%;
   font-size: 14px;
@@ -60,8 +60,8 @@
   font-size: 20px;
   color: #ffffff;
   padding: 24px 38px;
-  background: #e63f17;
-  border: 1px solid #e63f17;
+  background: #b83141;
+  border: 1px solid #b83141;
   display: inline-block;
   margin-left: 10px;
   text-transform: uppercase;
@@ -76,7 +76,7 @@
   }
 }
 .search-form_submit:hover {
-  border-color: #e63f17;
+  border-color: #b83141;
 }
 .srch-wr {
   background: #ffffff;
@@ -188,7 +188,7 @@
   margin-right: 11px;
 }
 .srch-wr .search-form_submit:hover {
-  background: #e63f17;
+  background: #b83141;
 }
 @media (max-width: 991px) {
   .srch-wr .search-form_submit {
@@ -285,14 +285,14 @@
   display: block;
   padding: 5px 10px;
   background: #ffffff;
-  color: #e63f17;
+  color: #b83141;
 }
 .search-form_liveout .search_link p {
   font-size: 16px;
   color: #3e3d3d;
 }
 .search-form_liveout .search_link .search_title {
-  color: #e63f17;
+  color: #b83141;
   font: 700 13px/18px 'Trebuchet MS', sans-serif;
   text-transform: uppercase;
 }
@@ -305,7 +305,7 @@
 }
 .search-form_liveout .search_error {
   display: block;
-  color: #e63f17;
+  color: #b83141;
   background: #fafafa;
   padding: 10px 10px;
   overflow: hidden;
@@ -334,7 +334,7 @@
   padding: 0;
 }
 .search-form_liveout button:hover {
-  background: #e63f17;
+  background: #b83141;
   color: #ffffff;
 }
 input:focus + .search-form_liveout {
@@ -404,7 +404,7 @@ input:focus + .search-form_liveout {
   }
 }
 .search-frame h4 a:hover {
-  color: #e63f17;
+  color: #b83141;
 }
 .search-frame .search_list {
   color: #a7a7a7;
@@ -420,7 +420,7 @@ input:focus + .search-form_liveout {
   font: 300 15px/22px 'Trebuchet MS', sans-serif;
 }
 .search-frame .search_list .match {
-  color: #e63f17;
+  color: #b83141;
   font-size: 12px;
   display: block;
 }
@@ -449,10 +449,10 @@ input:focus + .search-form_liveout {
   line-height: inherit;
 }
 .search-frame .search_list li + li {
-  border-top: 5px solid #e63f17;
+  border-top: 5px solid #b83141;
 }
 .search-frame .search {
-  color: #e63f17;
+  color: #b83141;
   font-weight: 700;
 }
 .search-frame .match {
