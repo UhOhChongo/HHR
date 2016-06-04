@@ -61,7 +61,7 @@
 /* =============================================================== */
 
 a {
-    color: #454545;
+    color: #3498db;
     text-decoration: none;
     outline: none !important;
     -moz-transition: all .2s ease-in;
@@ -6164,4 +6164,8 @@ div.quickview {
 
 .white-bg {
     background: #fff;
+}
+
+.faq-answer {
+  padding: 5px 0 20px 0;
 }
